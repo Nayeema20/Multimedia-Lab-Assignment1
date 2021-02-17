@@ -1,0 +1,140 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2021, NAYEIMA
+UComments: "2021-2-15: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 421 -1401582124 15469]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1613388840
+ModificationTime: 1613588895
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 27 27 9
+BeginChars: 256 2
+
+StartChar: uni0995
+Encoding: 29 2453 0
+Width: 1702
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+318 297 m 29
+ 508 363 l 29
+ 522 189 l 29
+ 324 223 l 29
+ 318 297 l 29
+920 119 m 1053
+1360 640 m 1028
+778 516 m 4
+ 752 520 756 520 748 520 c 4
+ 740 520 762 512 794 484 c 1028
+490 336 m 1028
+490 357 m 21
+ 478.952794328 352.227847419 350.996408135 279.30184215 361 285 c 13
+ 361 234 l 29
+ 508 204 l 29
+ 490 336 l 1053
+200 260 m 13
+ 232 177 l 29
+ 652 114 l 29
+ 562 513 l 29
+ 766 324 l 21
+ 773.005861185 263.122699692 700.199985528 144.332504751 880 252 c 5
+ 856 226 l 5
+ 856 226 877.53515625 311.998046875 894 360 c 5
+ 778 516 l 5
+ 778 516 527.281723298 533.956066852 518 536.174804688 c 4
+ 512.161646602 537.57042651 331.173321663 378.369640767 200 260 c 13
+186 654 m 5
+ 1360 640 l 5
+ 1356 526 l 5
+ 550 534.174496644 l 4
+ 178 540 l 5
+ 186 654 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni0985
+Encoding: 30 2437 1
+Width: 1459
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+1117 540 m 29
+ 1108 576 l 29
+ 1051 555 l 5
+ 1036 525 l 29
+ 1072 255 l 5
+ 994 297 l 5
+ 967 213 l 5
+ 1141 153 l 5
+ 1117 540 l 29
+826 429 m 5
+ 913 444 l 5
+ 901 312 l 5
+ 877 249 l 29
+ 721 243 l 29
+ 607 333 l 29
+ 562 408 l 5
+ 514 555 l 29
+ 433 501 l 5
+ 451 438 l 5
+ 490 342 l 5
+ 517.50390625 294 527.880859375 291 556 243 c 5
+ 655 174 l 5
+ 853 162 l 5
+ 946 204 l 29
+ 1003 339 l 29
+ 1006 444 l 29
+ 997 510 l 29
+ 937 537 l 29
+ 874 549 l 5
+ 805 498 l 5
+ 826 429 l 5
+370 672 m 5
+ 379 558 l 5
+ 850 567 l 29
+ 952 567 l 29
+ 1150 573 l 5
+ 1141 681 l 5
+ 667 669 l 5
+ 370 672 l 5
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
